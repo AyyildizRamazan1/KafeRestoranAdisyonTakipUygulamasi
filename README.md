@@ -3,7 +3,8 @@
 
 Bu uygulamamda bir restoran kasiyerinin önünde açık olan bilgisayarda adisyon takibi ve ödeme alabileceği bir uygulama yaptım.
 Uygulama başlangıcında restoranın masa sayısı karşılıyor ve ben 10 masalı bir restoran düşündüm tercihe göre arttırılıp azaltılabilir. 
-![image](https://github.com/AyyildizRamazan1/KafeRestoranAdisyonTakipUygulamasi/assets/97359282/9f83501e-ebe1-448a-b2db-d5a1e4d0e257)
+![Başlangıç](https://github.com/AyyildizRamazan1/KafeRestoranAdisyonTakipUygulamasi/assets/97359282/bedba6b4-658a-4885-8ae3-c54149c8b7f4)
+
 
 Daha sonra seçtiğimiz herhangi bir masada bizi menü karşılıyor bu menü restoranın isteklerine göre değişiklik gösterebilir. Ben restoranda 4 adet sınıf olduğunu varsayarak "Ana Yemekler", "İçecekler","Tatlılar" VE "Salatalar" olarak 4 seçenek ekledim.
 
