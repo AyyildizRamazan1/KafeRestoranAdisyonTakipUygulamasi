@@ -3,6 +3,7 @@
 
 Bu uygulamamda bir restoran kasiyerinin önünde açık olan bilgisayarda adisyon takibi ve ödeme alabileceği bir uygulama yaptım.
 Uygulama başlangıcında restoranın masa sayısı karşılıyor ve ben 10 masalı bir restoran düşündüm tercihe göre arttırılıp azaltılabilir. 
+
 ![Başlangıç](https://github.com/AyyildizRamazan1/KafeRestoranAdisyonTakipUygulamasi/assets/97359282/bedba6b4-658a-4885-8ae3-c54149c8b7f4)
 
 
